@@ -1,4 +1,3 @@
 # ProcessorDemo
-AbstractProcessor study
- 
-  [ButterKnife](https://github.com/JakeWharton/butterknife)
+
+  more [ButterKnife](https://github.com/JakeWharton/butterknife)
