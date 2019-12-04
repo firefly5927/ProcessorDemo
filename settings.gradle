@@ -1,0 +1,2 @@
+include ':app', ':coco_compiler', ':coco_annotation', ':coco_runtime'
+rootProject.name='QAdaptation'
